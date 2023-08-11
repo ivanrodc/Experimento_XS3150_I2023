@@ -6,7 +6,7 @@ Este proyecto se desarrolló como parte del curso **Principios de Diseños Exper
 
 * [Datos](https://github.com/ivanrodc/Experimento_XS-3150/blob/main/data_semillas.csv)
 * [Código de análisis](https://github.com/ivanrodc/Experimento_XS-3150/blob/main/codigo_analisis.qmd)
-* [Código de la simulación de la potencia de la prueba](https://github.com/ivanrodc/Experimento_XS-3150/blob/main/simulacion_potencia.R)
+* [Código de simulación de la potencia de la prueba](https://github.com/ivanrodc/Experimento_XS-3150/blob/main/simulacion_potencia.R)
 * [Artículo]() (Por añadir). 
 
 
