@@ -11,6 +11,6 @@ El crecimiento de las raíces de las semillas de lechuga puede verse afectado po
 * [Datos](https://github.com/ivanrodc/Experimento_XS-3150/blob/main/data_semillas.csv)
 * [Código de análisis](https://github.com/ivanrodc/Experimento_XS-3150/blob/main/codigo_analisis.qmd)
 * [Código de la simulación de la potencia de la prueba](https://github.com/ivanrodc/Experimento_XS-3150/blob/main/simulacion_potencia.R)
-* [Artículo]() (Por añadir).
+* [Artículo]() (Por añadir). 
 
 
