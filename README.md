@@ -1,1 +1,3 @@
-# Experimento_XS-3150
+# Efecto del grado de acidez del suelo (pH) y la temperatura sobre el crecimiento del largo promedio de las raíces de semillas de lechuga Great Lakes 118
+
+Este proyecto se desarrolló como parte del curso “Principios de Diseños Experimentales (XS-3150)” bajo la orientación de la profesora PhD Shirley Rojas Salazar. Además, este artículo fue redactado de manera colaborativa por Manrique Camacho Pochet, Amanda Cedeño Guzmán, Iván Rodríguez Cruz y Marie Sofia Villalobos Martínez, quienes son estudiantes de tercer año en la carrera de Estadística de la Universidad de Costa Rica. Igualmente, se contó con el apoyo técnico del agrónomo Marcelo Murillo Quesada del Laboratorio de Semillas del Centro para Investigaciones en Granos y Semillas (CIGRAS) de la Universidad de Costa Rica. 
